@@ -5,7 +5,8 @@ After some extra stuff I added, it's pretty much a small cleaner that will delet
 
 
 
-###### What exactly does this batch file do?
+
+## What exactly does this batch file do?
 This small script will **erase** the following:
 
 - *Registry Files* (MUICache, Bags, MRU...)
