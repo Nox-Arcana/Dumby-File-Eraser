@@ -13,4 +13,4 @@ This small script will **erase** the following:
 - *Temp, %temp%, prefetch and recent*
 - *Windows Event Logs*
 
-**_For detailed info about what exactly this erases read the code itself_** [Dumby-File-Eraser Source](https://github.com/Nox-Arcana/Dumby-File-Eraser/blob/master/Dummy%20File%20Eraser/Dummy%20File%20Eraser.bat)
+**_For detailed info about what exactly this erases read the code itself: _** [Dumby-File-Eraser Source](https://github.com/Nox-Arcana/Dumby-File-Eraser/blob/master/Dummy%20File%20Eraser/Dummy%20File%20Eraser.bat)
