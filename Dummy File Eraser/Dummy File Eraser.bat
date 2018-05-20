@@ -70,7 +70,7 @@ echo.
 echo.
 echo.
 echo.
-echo Prefetch, Temp, temp, and recent files will now be erased.
+echo Prefetch, Temp, temp, Recycle Bin and recent files will now be erased.
 echo Press any key to continue. . .
 pause>null
 cls
@@ -83,7 +83,7 @@ cls
 cls
 echo.
 color A4
-echo The following files were erased: Prefetch, Temp, temp, and recent.
+echo The following files were erased: Prefetch, Temp, temp, Recycle Bin and recently opened archieves.
 echo.
 echo.
 echo.
