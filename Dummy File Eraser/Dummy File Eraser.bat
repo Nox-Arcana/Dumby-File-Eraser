@@ -76,6 +76,7 @@ pause>null
 cls
 @RD /S /Q "C:\Windows\Prefetch\"
 @RD /S /Q "C:\Windows\Temp"
+@RD /S /Q "C:\$Recycle.bin"
 @RD /S /Q "C:\Users\Default\AppData\Roaming\Microsoft\Windows\Recent\"
 @RD /S /Q "C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Recent\"
 @RD /S /Q "C:\Users\%USERNAME%\AppData\Local\Temp"
